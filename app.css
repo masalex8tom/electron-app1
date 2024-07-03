@@ -1,0 +1,24 @@
+body{
+    width: 90%;
+    margin: auto;
+}
+
+*{
+    margin: 0; padding: 0;
+    outline: none; background-color: none;
+    color: rgb(2, 44, 42);
+    font-family: Poppins, sans-serif;
+}
+
+input{
+    border: navajowhite;
+    background-color: aliceblue;
+    border-bottom: 2px solid #144f83;
+}
+
+.form-part{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
